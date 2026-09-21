@@ -3,7 +3,7 @@
 This repository is generated from `loyal-labs/loyal-app`.
 
 - Source path: `apps/telegram`
-- Source commit: `d5fedef48a384aaee1b12f245accd189fd328bbd`
-- Generated at: `2026-09-04T19:27:37.375Z`
+- Source commit: `d100f39f5f46c6492ef8d68099fe010fb5ec67b6`
+- Generated at: `2026-09-21T20:56:33.537Z`
 
 Do not edit this repository directly. Changes should land in `loyal-app`.

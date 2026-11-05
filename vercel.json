@@ -1,13 +1,3 @@
 {
-  "buildCommand": "bun run build && bash scripts/upload-sourcemaps.sh",
-  "crons": [
-    {
-      "path": "/api/cron/telegram-helper-cleanup",
-      "schedule": "* * * * *"
-    },
-    {
-      "path": "/api/cron/telegram-stats",
-      "schedule": "* * * * *"
-    }
-  ]
+  "buildCommand": "bun run build && bash scripts/upload-sourcemaps.sh"
 }
